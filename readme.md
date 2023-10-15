@@ -55,7 +55,7 @@
 
 ## About Developer 👨‍💻
 
-Hey I am Akshun Verma. Fullstack Javascript Developer from Delhi. Very much eager to explore and develop scalable, user friendly, robust applications and Kaizen on problem solving skills
+Hey I am chinmay chaturvedi. Fullstack Javascript Developer from Delhi. Very much eager to explore and develop scalable, user friendly, robust applications and Kaizen on problem solving skills
 
 - [Instagram](https://www.instagram.com/akshunn_3945/)
 - [LinkedIn](https://www.linkedin.com/in/akshun-verma-98110b214/)
