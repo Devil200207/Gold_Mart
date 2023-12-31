@@ -45,7 +45,6 @@
 ![](/imagess/img1.png)
 ![](/imagess/img2.png)
 ![](/imagess/img3.png)
-![](/imagess/img4.png)
 
 ### Future Updates:
 
@@ -55,10 +54,8 @@
 
 ## About Developer 👨‍💻
 
-Hey I am chinmay chaturvedi. Fullstack Javascript Developer from Delhi. Very much eager to explore and develop scalable, user friendly, robust applications and Kaizen on problem solving skills
+Hey I am chinmay chaturvedi. Frontend Angular Developer from Delhi. Very much eager to explore and develop scalable, user friendly, robust applications and Kaizen on problem solving skills
 
-- [Instagram](https://www.instagram.com/akshunn_3945/)
-- [LinkedIn](https://www.linkedin.com/in/akshun-verma-98110b214/)
 
 #### Do reach out and provide your valuable insights about the project. I appreciate your inputs.
 
